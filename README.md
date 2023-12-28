@@ -27,5 +27,5 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter-express.git
-   cd currency-converter-express
+   git clone https://github.com/rahulraji18/currency_convert-nodejs_ts.git
+   cd currency_convert-nodejs_ts
