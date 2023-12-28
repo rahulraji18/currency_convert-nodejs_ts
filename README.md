@@ -1,10 +1,16 @@
 # Task: TypeScript Express.js Application for Currency Conversion
 
 ## Start the application:
-   install dependencies => npm install
+   install dependencies => 
+   ```bash
+   npm install
+   
    npm run dev
+   ```
+
    open http://localhost:3000/api-docs/ to access Api documentation (swagger doc).
    or 
+
    open postman => https://www.postman.com/martian-desert-545458/workspace/public-work/collection/21586979-5b0dc1a4-6c52-475b-bc2a-e020c37426ee?action=share&creator=21586979
 
 ## Folder structure
